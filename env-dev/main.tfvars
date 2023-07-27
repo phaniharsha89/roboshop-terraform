@@ -1,6 +1,6 @@
 env = "dev"
 
-components = {
+components = "{
     
   frontend =   {}
   mongodb =    {}
@@ -14,4 +14,4 @@ components = {
   payment =    {}
 
      
-}
+}"
