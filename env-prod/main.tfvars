@@ -1,7 +1,7 @@
 env = "prod"
 
-"component" {
-    default = { 
+components = {
+      default = { 
       frontend = {}
       mongodb = {}
       catalogue = {}
