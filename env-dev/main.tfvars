@@ -1,7 +1,6 @@
 env = "dev"
 
 components = {
-    
   frontend    =  {}
   mongodb     =  {}
   catalogue   =  {}
@@ -11,6 +10,5 @@ components = {
   mysql       =  {}
   shipping    =  {}
   rabbitmq    =  {}
-  payment     =   {}
-
+  payment     =  {}
 }
